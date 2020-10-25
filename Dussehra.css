@@ -37,18 +37,18 @@ body{
     border-radius: 30px;
     background-color: aliceblue;
     color: red;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bolder;
     text-align: center;
 }
 
 .know-more{
     margin-top: 5px;
-    font-size: 27px;
+    font-size: 24px;
     text-align: center;
     background-color: black;
     border-radius: 20px;
-    border: dashed 1px yellow;
+    /* border: dashed 1px yellow; */
 }
 
 .footer{
