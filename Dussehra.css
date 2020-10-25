@@ -1,0 +1,31 @@
+body{
+    background-color: red;
+}
+
+.main-container{
+    margin-top: 3%;
+    margin-left: 100px;
+    margin-right:100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua;   */
+}
+
+.heading{
+    text-align: center;
+    font-size: 80px;
+    color: black;
+    font-weight: bolder;
+}
+
+.div-border{
+    border: solid 4px black;
+    border-radius: 30px;
+}
+
+.img-styling{
+    margin-top: 10px;
+}
