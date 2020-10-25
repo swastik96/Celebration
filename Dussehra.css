@@ -32,7 +32,27 @@ body{
     margin-top: 10px;
 }
 
+.message{
+    border: solid 4px yellowgreen;
+    border-radius: 30px;
+    background-color: aliceblue;
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.know-more{
+    margin-top: 5px;
+    font-size: 27px;
+    text-align: center;
+    background-color: black;
+    border-radius: 20px;
+    border: dashed 1px yellow;
+}
+
 .footer{
+    margin-top: 10px;
     display: flex;
     background-color: aqua;
     justify-content: center;
